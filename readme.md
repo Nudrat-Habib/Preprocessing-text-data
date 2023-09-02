@@ -6,4 +6,5 @@ the preprocessing techniques discued in the notebook are :
         5. removing Stopwords
         6. removing punctuations
         6. stemming
-it uses twitter dataset for preprocessing
+techniques are applied on sample data of 2-3 sentences to better explain it.
+then those techniques are applied on  twitter dataset for preprocessing
